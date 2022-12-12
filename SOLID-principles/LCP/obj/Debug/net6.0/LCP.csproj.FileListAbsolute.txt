@@ -1,0 +1,15 @@
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\bin\Debug\net6.0\LCP.exe
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\bin\Debug\net6.0\LCP.deps.json
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\bin\Debug\net6.0\LCP.runtimeconfig.json
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\bin\Debug\net6.0\LCP.dll
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\bin\Debug\net6.0\LCP.pdb
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\LCP.csproj.AssemblyReference.cache
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\LCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\LCP.AssemblyInfoInputs.cache
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\LCP.AssemblyInfo.cs
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\LCP.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\LCP.dll
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\refint\LCP.dll
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\LCP.pdb
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\LCP.genruntimeconfig.cache
+C:\Users\Nihad\Desktop\SOLID-principles\SOLID-principles\LCP\obj\Debug\net6.0\ref\LCP.dll
